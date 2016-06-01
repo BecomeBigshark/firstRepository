@@ -1,3 +1,6 @@
 class testGit
 {
+  public testGit()
+  {
+  }
 }
